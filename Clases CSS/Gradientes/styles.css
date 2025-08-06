@@ -1,0 +1,28 @@
+body {
+    background-color: #649;
+    margin: 0;
+}
+
+.box {
+    width: 300px;
+    height: 400px;
+    background: linear-gradient( to bottom, transparent ,black);
+    margin: 0;
+    border-radius: 7px;
+    margin: auto; 
+    margin-top: 20px;
+    border-top: 3px solid #64f;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+h1 {
+    color: white;
+    margin: 0;
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+}

@@ -10,15 +10,17 @@ body {
     height: 100px;
     margin: 20px;
     margin: 0;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8t5Qv9hoArKjwgA25zZgoNoKuhbVU2zc6-A&s);
-    background-color: red;
-    background-size: cover;
-    background-position: left;
-    background-attachment: fixed;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8t5Qv9hoArKjwgA25zZgoNoKuhbVU2zc6-A&s) left / cover fixed red;
 }
 
 .opaco {
     height: 100%;
     width: 100%;
     background-color: #000a;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 0;
 }
