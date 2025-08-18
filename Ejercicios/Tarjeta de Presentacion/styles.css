@@ -15,12 +15,20 @@ body {
     border-radius: 8px;
 }
 
+.card.red{
+    background-color: red
+}
+
+.card.green {
+    background-color: green;
+}
+
 .card_title {
     font-size: 22px;
     margin: 0;
 }
 
-    .card_subtitle {
+.card_subtitle {
     font-size: 13px;
     font-weight: 100;
     letter-spacing: 2px;
